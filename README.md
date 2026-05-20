@@ -168,7 +168,7 @@
 
       <div class="bg-[#fff8f0] rounded-3xl overflow-hidden shadow-xl border border-neutral-200 hover:-translate-y-2 transition duration-300">
         <img
-          src=" /mnt/data/a_bright_sunlit_lifestyle_fashion_photo._overall.png"
+          src="Sommer_2.png"
           alt="Sommer Kleider"
           class="h-[420px] w-full object-cover"
         />
