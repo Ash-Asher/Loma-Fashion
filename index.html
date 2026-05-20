@@ -207,7 +207,7 @@
         </div>
 
         <div class="bg-[#fff8f0] rounded-3xl overflow-hidden shadow-lg border border-neutral-200">
-          <img src="https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=1200&auto=format&fit=crop" alt="Pastell Shirt" class="h-72 w-full object-cover" />
+          <img src="Sommer_3.png" alt="Pastell Shirt" class="h-72 w-full object-cover" />
           <div class="p-6">
             <h4 class="text-2xl font-bold text-black">Pastell Shirt</h4>
             <p class="text-neutral-600 mt-3">Modernes Oversize-Shirt für warme Tage.</p>
