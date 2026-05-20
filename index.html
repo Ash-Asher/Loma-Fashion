@@ -216,7 +216,7 @@
         </div>
 
         <div class="bg-[#fff8f0] rounded-3xl overflow-hidden shadow-lg border border-neutral-200">
-          <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=1200&auto=format&fit=crop" alt="Summer Look" class="h-72 w-full object-cover" />
+          <img src="Sommer_4.png" alt="Summer Look" class="h-72 w-full object-cover" />
           <div class="p-6">
             <h4 class="text-2xl font-bold text-black">Summer Look Set</h4>
             <p class="text-neutral-600 mt-3">Stylisches Set für den perfekten Sommerstyle.</p>
