@@ -1,4 +1,79 @@
 <!DOCTYPE html>
+      <div>
+        <p class="uppercase tracking-[0.3em] text-sm text-neutral-500">
+          Über Uns
+        </p>
+
+        <h2 class="text-4xl lg:text-5xl font-bold mt-4 leading-tight">
+          Fashion bedeutet Persönlichkeit.
+        </h2>
+
+        <p class="mt-6 text-lg text-neutral-700 leading-relaxed">
+          Loma Fashion steht für moderne Styles, mutige Kombinationen und individuelle Looks.
+          Unsere Mission ist es, dir jeden Tag neue Inspiration für dein perfektes Outfit zu geben.
+        </p>
+
+        <div class="mt-10 grid grid-cols-2 gap-6">
+          <div class="p-6 rounded-2xl bg-neutral-100">
+            <h3 class="text-3xl font-black">500+</h3>
+            <p class="mt-2 text-neutral-600">Neue Fashion-Pieces</p>
+          </div>
+
+          <div class="p-6 rounded-2xl bg-neutral-100">
+            <h3 class="text-3xl font-black">24/7</h3>
+            <p class="mt-2 text-neutral-600">Online verfügbar</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Newsletter -->
+  <section class="max-w-5xl mx-auto px-6 py-24">
+    <div class="rounded-[2rem] bg-gradient-to-r from-pink-500 to-orange-500 p-10 lg:p-16 text-center shadow-2xl">
+      <h2 class="text-4xl lg:text-5xl font-black">
+        Bleibe im Trend
+      </h2>
+
+      <p class="mt-5 text-lg text-white/90 max-w-2xl mx-auto">
+        Erhalte exklusive Angebote, neue Kollektionen und die neuesten Fashion-News direkt in dein Postfach.
+      </p>
+
+      <div class="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
+        <input
+          type="email"
+          placeholder="Deine E-Mail"
+          class="px-6 py-4 rounded-2xl w-full sm:w-96 text-black outline-none"
+        />
+
+        <button class="px-8 py-4 rounded-2xl bg-black text-white font-semibold hover:scale-105 transition-transform">
+          Abonnieren
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="border-t border-neutral-300 py-10 px-6">
+    <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between gap-6 items-center">
+      <div>
+        <h3 class="text-2xl font-black">Loma Fashion</h3>
+        <p class="text-neutral-600 mt-2">
+          Neue Trends, Neuer Style, jeder Look ein neues Teil.
+        </p>
+      </div>
+
+      <div class="flex gap-6 text-neutral-600 items-center flex-wrap justify-center">
+        <a href="#" class="hover:text-white transition">Instagram</a>
+        <a href="#" class="hover:text-white transition">TikTok</a>
+        <span class="hover:text-white transition">Kontakt: 01731234567</span>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
+<!DOCTYPE html>
 <html lang="de">
 <head>
   <meta charset="UTF-8" />
