@@ -152,7 +152,7 @@
     <div class="grid md:grid-cols-2 gap-10">
       <div class="bg-[#fff8f0] rounded-3xl overflow-hidden shadow-xl border border-neutral-200 hover:-translate-y-2 transition duration-300">
         <img
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe-0UUKJ_8a_cDap8raXipJYw5gx-NdnDLMvXrTXGjgplPXDSqlc499rnocO8&s"
+          src="Sommer_1.png"
           alt="Sommer T-Shirts"
           class="h-[420px] w-full object-cover"
         />
