@@ -149,7 +149,7 @@
       </p>
     </div>
 
-    <div class="grid md:grid-cols-2 gap-10">
+    <div class="grid md:grid-cols-2 gap-10 mb-16">
       <div class="bg-[#fff8f0] rounded-3xl overflow-hidden shadow-xl border border-neutral-200 hover:-translate-y-2 transition duration-300">
         <img
           src="Sommer_1.png"
@@ -179,6 +179,49 @@
             Leichte Sommerkleider mit modernen Schnitten und frischen Farben für warme Tage
             und unvergessliche Sommermomente.
           </p>
+        </div>
+      </div>
+    </div>
+      <div class="mt-20">
+      <h3 class="text-4xl font-black text-center text-black mb-12">
+        Beliebte Produkte
+      </h3>
+
+      <div class="grid md:grid-cols-4 gap-8">
+        <div class="bg-[#fff8f0] rounded-3xl overflow-hidden shadow-lg border border-neutral-200">
+          <img src="https://images.unsplash.com/photo-1521572267360-ee0c2909d518?q=80&w=1200&auto=format&fit=crop" alt="Blumen T-Shirt" class="h-72 w-full object-cover" />
+          <div class="p-6">
+            <h4 class="text-2xl font-bold text-black">Blumen T-Shirt</h4>
+            <p class="text-neutral-600 mt-3">Leichtes Sommer-Shirt mit floralem Design.</p>
+            <div class="mt-4 text-2xl font-black text-orange-500">24,99 €</div>
+          </div>
+        </div>
+
+        <div class="bg-[#fff8f0] rounded-3xl overflow-hidden shadow-lg border border-neutral-200">
+          <img src="https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=1200&auto=format&fit=crop" alt="Sommerkleid" class="h-72 w-full object-cover" />
+          <div class="p-6">
+            <h4 class="text-2xl font-bold text-black">Sommerkleid Floral</h4>
+            <p class="text-neutral-600 mt-3">Luftiges Kleid in sommerlichen Farben.</p>
+            <div class="mt-4 text-2xl font-black text-orange-500">49,99 €</div>
+          </div>
+        </div>
+
+        <div class="bg-[#fff8f0] rounded-3xl overflow-hidden shadow-lg border border-neutral-200">
+          <img src="https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?q=80&w=1200&auto=format&fit=crop" alt="Pastell Shirt" class="h-72 w-full object-cover" />
+          <div class="p-6">
+            <h4 class="text-2xl font-bold text-black">Pastell Shirt</h4>
+            <p class="text-neutral-600 mt-3">Modernes Oversize-Shirt für warme Tage.</p>
+            <div class="mt-4 text-2xl font-black text-orange-500">29,99 €</div>
+          </div>
+        </div>
+
+        <div class="bg-[#fff8f0] rounded-3xl overflow-hidden shadow-lg border border-neutral-200">
+          <img src="https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=1200&auto=format&fit=crop" alt="Summer Look" class="h-72 w-full object-cover" />
+          <div class="p-6">
+            <h4 class="text-2xl font-bold text-black">Summer Look Set</h4>
+            <p class="text-neutral-600 mt-3">Stylisches Set für den perfekten Sommerstyle.</p>
+            <div class="mt-4 text-2xl font-black text-orange-500">69,99 €</div>
+          </div>
         </div>
       </div>
     </div>
